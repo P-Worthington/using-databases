@@ -150,5 +150,3 @@ for programmer in programmers:
         programmer.famous_for,
         sep=" | "
     )
-
-print("hello")
